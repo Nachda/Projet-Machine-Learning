@@ -1,5 +1,5 @@
 # 🎯 Projet ML – Prédiction de réponses à une Campagne Marketing
-**Projet GSTR1 (BAC+3)   ENSA Tétouan 2024-2025**                                                                                                                                                                                                                                                                                                                                        
+**Projet GSTR1 "Génie des Systèmes de Télécommunications et Réseau" (BAC+3)   ENSA Tétouan 2024-2025**                                                                                                                                                                                                                                                                                                                                        
 
 ## 🧠 Description
 
